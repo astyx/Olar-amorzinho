@@ -1,5 +1,6 @@
 # Olar-amorzinho
 #include <stdio.h>
+//SÓ PRA MOSTRAR MEU AMOR POR TI :3
 int main(){
 
 int i=0; 
